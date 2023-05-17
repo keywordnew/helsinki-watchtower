@@ -94,18 +94,20 @@
     "url": "https://www.hsl.fi/",
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 1076,
-    "timeWeek": 1056,
-    "timeMonth": 1056,
-    "timeYear": 1056,
-    "dailyMinutesDown": {}
+    "time": 989,
+    "timeDay": 900,
+    "timeWeek": 989,
+    "timeMonth": 989,
+    "timeYear": 989,
+    "dailyMinutesDown": {
+      "2023-05-17": 0
+    }
   },
   {
     "name": "OP Financial Group",
