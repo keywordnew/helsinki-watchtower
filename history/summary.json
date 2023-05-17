@@ -94,19 +94,19 @@
     "url": "https://www.hsl.fi/",
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
-    "status": "down",
-    "uptime": "98.29%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "98.29%",
-    "time": 4226,
-    "timeDay": 5635,
-    "timeWeek": 4226,
-    "timeMonth": 4226,
-    "timeYear": 4226,
+    "status": "up",
+    "uptime": "98.15%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
+    "time": 4028,
+    "timeDay": 5218,
+    "timeWeek": 4028,
+    "timeMonth": 4028,
+    "timeYear": 4028,
     "dailyMinutesDown": {
-      "2023-05-17": 88
+      "2023-05-17": 95
     }
   },
   {
