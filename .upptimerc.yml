@@ -1,6 +1,6 @@
-owner: $OWNER
-repo: $REPO
-user-agent: $OWNER
+owner: keywordnew
+repo: helsinki-watchtower
+user-agent: keywordnew
 
 sites:
   - name: Helsinki Region Environmental Services HSY
@@ -34,7 +34,7 @@ sites:
 
 
 status-website:
-  baseUrl: /$REPO
+  baseUrl: /helsinki-watchtower
   name: 'Neighbourhood Cyber'
   logoUrl: https://nilspace.xyz/content/images/2023/05/favicon.png
   favicon: https://nilspace.xyz/content/images/2023/05/favicon.png
