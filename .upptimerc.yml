@@ -1,6 +1,6 @@
-owner: keywordnew
-repo: helsinki-watchtower
-user-agent: keywordnew
+owner: $OWNER
+repo: $REPO
+user-agent: $OWNER
 
 sites:
   - name: Helsinki Region Environmental Services HSY
@@ -34,12 +34,12 @@ sites:
 
 
 status-website:
-  baseUrl: /helsinki-watchtower
+  baseUrl: /$REPO
   name: 'Neighbourhood Cyber'
   logoUrl: https://nilspace.xyz/content/images/2023/05/favicon.png
   favicon: https://nilspace.xyz/content/images/2023/05/favicon.png
   introTitle: 'Helsinki 🇫🇮 watchtower'
-  introMessage: 'check if critical infrastructure may be down, or use [GitHub ↗️](https://github.com/keywordnew/scaling-robot) to "Watch" and get notified'
+  introMessage: 'check if critical infrastructure may be down, or use [GitHub ↗️](https://github.com/$OWNER/$REPO) to "Watch" and get notified'
   navbar:
     - title: Status
       href: /
@@ -47,3 +47,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Neighbourhoods
       href: https://github.com/$OWNER?tab=repositories&q=watchtower
+      
+i18n:
+  footer: This Watchtower is part of [Project Watchtower](https://nilspace.xyz/project-watchtower/).
