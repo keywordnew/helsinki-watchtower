@@ -1,7 +1,7 @@
 url: https://www.hsl.fi/
-status: up
-code: 200
-responseTime: 7976
-lastUpdated: 2023-05-26T08:55:36.417Z
+status: down
+code: 502
+responseTime: 556
+lastUpdated: 2023-05-26T13:51:34.969Z
 startTime: Sun May 14 2023 10:18:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
