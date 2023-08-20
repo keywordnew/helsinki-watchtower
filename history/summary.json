@@ -95,18 +95,18 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "down",
-    "uptime": "15.02%",
+    "uptime": "15.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "36.68%",
+    "uptimeWeek": "35.85%",
     "uptimeMonth": "6.53%",
-    "uptimeYear": "15.02%",
+    "uptimeYear": "15.01%",
     "time": 3369,
     "timeDay": 497,
-    "timeWeek": 2558,
+    "timeWeek": 2691,
     "timeMonth": 2558,
     "timeYear": 3369,
     "dailyMinutesDown": {
-      "2023-08-20": 30,
+      "2023-08-20": 146,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
@@ -204,9 +204,9 @@
     "url": "https://www.op.fi/home-page",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "op-financial-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,6 +215,8 @@
     "timeWeek": 1325,
     "timeMonth": 1325,
     "timeYear": 1389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-20": 0
+    }
   }
 ]
