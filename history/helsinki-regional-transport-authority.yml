@@ -1,7 +1,7 @@
 url: https://www.hsl.fi/
-status: down
-code: 503
-responseTime: 15384
-lastUpdated: 2023-09-06T10:35:23.707Z
+status: up
+code: 200
+responseTime: 812
+lastUpdated: 2023-09-06T10:42:53.170Z
 startTime: 2023-05-14T10:18:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
