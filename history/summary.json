@@ -60,9 +60,9 @@
     "url": "https://www.hus.fi/potilaalle/sairaalat-ja-toimipisteet/paivystysapu-116117",
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "helsingin-ja-uudenmaan-sairaanhoitopiiri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 2397,
     "timeMonth": 2403,
     "timeYear": 2433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-18": 0
+    }
   },
   {
     "name": "Helsinki Police Department",
@@ -97,11 +99,11 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "up",
-    "uptime": "27.91%",
+    "uptime": "28.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "66.03%",
-    "uptimeYear": "27.91%",
+    "uptimeMonth": "67.78%",
+    "uptimeYear": "28.21%",
     "time": 3023,
     "timeDay": 1155,
     "timeWeek": 2363,
