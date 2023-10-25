@@ -65,9 +65,9 @@
     "slug": "helsingin-ja-uudenmaan-sairaanhoitopiiri",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 2458,
     "timeDay": 2104,
@@ -75,7 +75,6 @@
     "timeMonth": 2466,
     "timeYear": 2458,
     "dailyMinutesDown": {
-      "2023-10-24": 8,
       "2023-10-05": 20,
       "2023-09-18": 19
     }
@@ -109,8 +108,8 @@
     "status": "down",
     "uptime": "36.29%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "34.24%",
-    "uptimeMonth": "64.45%",
+    "uptimeWeek": "33.94%",
+    "uptimeMonth": "64.38%",
     "uptimeYear": "36.29%",
     "time": 2716,
     "timeDay": 673,
@@ -118,7 +117,7 @@
     "timeMonth": 2093,
     "timeYear": 2716,
     "dailyMinutesDown": {
-      "2023-10-25": 0,
+      "2023-10-25": 30,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
