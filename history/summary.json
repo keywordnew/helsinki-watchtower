@@ -13,7 +13,7 @@
     "time": 962,
     "timeDay": 600,
     "timeWeek": 516,
-    "timeMonth": 1607,
+    "timeMonth": 1651,
     "timeYear": 962,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 586,
     "timeDay": 733,
     "timeWeek": 536,
-    "timeMonth": 526,
+    "timeMonth": 537,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2024-02-22": 28,
@@ -60,7 +60,7 @@
     "time": 656,
     "timeDay": 837,
     "timeWeek": 724,
-    "timeMonth": 715,
+    "timeMonth": 719,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2023-10-05": 24
@@ -80,7 +80,7 @@
     "time": 2415,
     "timeDay": 2848,
     "timeWeek": 2076,
-    "timeMonth": 2499,
+    "timeMonth": 2521,
     "timeYear": 2415,
     "dailyMinutesDown": {
       "2024-02-14": 30,
@@ -95,17 +95,17 @@
     "slug": "helsinki-police-department",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1178,
     "timeDay": 1173,
     "timeWeek": 1166,
-    "timeMonth": 1278,
+    "timeMonth": 1291,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2024-02-29": 30,
+      "2024-02-29": 23,
       "2023-10-04": 66,
       "2023-10-03": 1
     }
@@ -116,15 +116,15 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "up",
-    "uptime": "54.55%",
+    "uptime": "54.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "63.89%",
-    "uptimeYear": "54.55%",
+    "uptimeYear": "54.56%",
     "time": 2149,
     "timeDay": 1068,
     "timeWeek": 579,
-    "timeMonth": 442,
+    "timeMonth": 419,
     "timeYear": 2149,
     "dailyMinutesDown": {
       "2024-02-12": 638,
@@ -293,7 +293,7 @@
     "time": 1428,
     "timeDay": 1550,
     "timeWeek": 1191,
-    "timeMonth": 1304,
+    "timeMonth": 1301,
     "timeYear": 1428,
     "dailyMinutesDown": {
       "2024-02-01": 16,
