@@ -1,7 +1,7 @@
 url: https://www.helen.fi/en
-status: up
-code: 200
-responseTime: 416
-lastUpdated: 2024-05-21T23:16:34.045Z
+status: down
+code: 503
+responseTime: 1243
+lastUpdated: 2024-05-22T02:39:00.136Z
 startTime: 2023-05-14T10:18:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
