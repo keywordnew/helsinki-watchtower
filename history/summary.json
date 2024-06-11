@@ -4,9 +4,9 @@
     "url": "https://www.hsy.fi/en/water-and-sewers/water-supply-cuts-and-disturbances-in-water-supply/",
     "icon": "https://nilspace.xyz/content/images/2023/05/water.png",
     "slug": "helsinki-region-environmental-services-hsy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 519,
     "timeMonth": 610,
     "timeYear": 811,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
   },
   {
     "name": "Helen Oy",
@@ -120,13 +122,13 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "up",
-    "uptime": "64.87%",
-    "uptimeDay": "72.27%",
+    "uptime": "64.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "57.20%",
-    "uptimeMonth": "82.67%",
-    "uptimeYear": "66.36%",
+    "uptimeMonth": "83.86%",
+    "uptimeYear": "66.46%",
     "time": 1985,
-    "timeDay": 858,
+    "timeDay": 1022,
     "timeWeek": 553,
     "timeMonth": 1109,
     "timeYear": 1503,
