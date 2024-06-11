@@ -4,19 +4,19 @@
     "url": "https://www.hsy.fi/en/water-and-sewers/water-supply-cuts-and-disturbances-in-water-supply/",
     "icon": "https://nilspace.xyz/content/images/2023/05/water.png",
     "slug": "helsinki-region-environmental-services-hsy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 505,
-    "timeWeek": 519,
-    "timeMonth": 610,
-    "timeYear": 811,
+    "time": 862,
+    "timeDay": 2266,
+    "timeWeek": 958,
+    "timeMonth": 710,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2024-06-11": 0
+      "2024-06-11": 12
     }
   },
   {
@@ -125,7 +125,7 @@
     "uptime": "64.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "57.20%",
-    "uptimeMonth": "83.86%",
+    "uptimeMonth": "83.88%",
     "uptimeYear": "66.46%",
     "time": 1985,
     "timeDay": 1022,
