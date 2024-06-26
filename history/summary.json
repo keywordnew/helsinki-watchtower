@@ -4,9 +4,9 @@
     "url": "https://www.hsy.fi/en/water-and-sewers/water-supply-cuts-and-disturbances-in-water-supply/",
     "icon": "https://nilspace.xyz/content/images/2023/05/water.png",
     "slug": "helsinki-region-environmental-services-hsy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 810,
     "timeMonth": 787,
     "timeYear": 819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-26": 0
+    }
   },
   {
     "name": "Helen Oy",
@@ -121,11 +123,11 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "up",
-    "uptime": "66.16%",
+    "uptime": "66.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.15%",
-    "uptimeYear": "70.47%",
+    "uptimeYear": "70.59%",
     "time": 1945,
     "timeDay": 725,
     "timeWeek": 898,
@@ -261,7 +263,7 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "op-financial-group",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
