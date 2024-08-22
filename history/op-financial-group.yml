@@ -1,7 +1,7 @@
 url: https://www.op.fi/home-page
-status: up
-code: 200
-responseTime: 1121
-lastUpdated: 2024-08-21T23:16:45.521Z
+status: down
+code: 500
+responseTime: 11218
+lastUpdated: 2024-08-22T21:07:32.903Z
 startTime: 2023-05-14T10:18:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
