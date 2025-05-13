@@ -210,18 +210,18 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "up",
-    "uptime": "74.19%",
-    "uptimeDay": "67.65%",
-    "uptimeWeek": "57.32%",
-    "uptimeMonth": "42.33%",
-    "uptimeYear": "60.38%",
+    "uptime": "72.45%",
+    "uptimeDay": "74.59%",
+    "uptimeWeek": "57.40%",
+    "uptimeMonth": "42.56%",
+    "uptimeYear": "60.40%",
     "time": 1091,
     "timeDay": 812,
     "timeWeek": 632,
     "timeMonth": 636,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2025-05-12": 426,
+      "2025-05-12": 417,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 963,
@@ -420,8 +420,7 @@
       "2024-06-10": 434,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
-      "2024-06-07": 1000,
-      "2024-05-13": 434
+      "2024-06-07": 1000
     }
   },
   {
