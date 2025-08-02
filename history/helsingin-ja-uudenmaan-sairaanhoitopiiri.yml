@@ -1,7 +1,7 @@
 url: https://www.hus.fi/potilaalle/sairaalat-ja-toimipisteet/paivystysapu-116117
-status: up
-code: 200
-responseTime: 599
-lastUpdated: 2025-08-01T23:30:49.470Z
+status: down
+code: 403
+responseTime: 607
+lastUpdated: 2025-08-02T05:55:57.165Z
 startTime: 2023-05-14T10:18:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
