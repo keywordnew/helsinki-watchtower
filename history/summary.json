@@ -81,10 +81,10 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "helsingin-ja-uudenmaan-sairaanhoitopiiri",
     "status": "up",
-    "uptime": "97.31%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.46%",
+    "uptime": "97.32%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "94.05%",
     "time": 1142,
     "timeDay": 651,
@@ -92,7 +92,7 @@
     "timeMonth": 704,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2025-08-01": 34,
+      "2025-08-01": 26,
       "2025-07-30": 47,
       "2025-07-24": 108,
       "2025-07-16": 29,
@@ -233,14 +233,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.04%",
+    "uptimeYear": "46.03%",
     "time": 983,
     "timeDay": 315,
     "timeWeek": 399,
     "timeMonth": 452,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-08-01": 1411,
+      "2025-08-02": 54,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -496,8 +497,7 @@
       "2024-08-11": 1053,
       "2024-08-05": 732,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 758
+      "2024-08-03": 1440
     }
   },
   {
