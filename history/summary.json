@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1151,
-    "timeDay": 1235,
-    "timeWeek": 1398,
-    "timeMonth": 1585,
-    "timeYear": 1213,
+    "time": 1153,
+    "timeDay": 1378,
+    "timeWeek": 1333,
+    "timeMonth": 1590,
+    "timeYear": 1214,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
-    "time": 640,
-    "timeDay": 790,
-    "timeWeek": 856,
-    "timeMonth": 1020,
-    "timeYear": 635,
+    "time": 641,
+    "timeDay": 941,
+    "timeWeek": 846,
+    "timeMonth": 1028,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2025-09-09": 47,
       "2025-08-26": 43,
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 642,
-    "timeDay": 546,
-    "timeWeek": 635,
-    "timeMonth": 696,
-    "timeYear": 619,
+    "timeDay": 805,
+    "timeWeek": 591,
+    "timeMonth": 694,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2025-02-11": 17,
       "2025-01-12": 24,
@@ -87,10 +87,10 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "94.01%",
     "time": 1015,
-    "timeDay": 1051,
-    "timeWeek": 1050,
-    "timeMonth": 890,
-    "timeYear": 822,
+    "timeDay": 1071,
+    "timeWeek": 1051,
+    "timeMonth": 896,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2025-09-28": 19,
       "2025-09-22": 31,
@@ -197,12 +197,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.40%",
+    "uptimeYear": "93.50%",
     "time": 1124,
-    "timeDay": 543,
-    "timeWeek": 867,
-    "timeMonth": 1016,
-    "timeYear": 1119,
+    "timeDay": 1021,
+    "timeWeek": 829,
+    "timeMonth": 1003,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2025-04-09": 655,
       "2025-04-08": 526,
@@ -230,8 +230,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 781,
-      "2024-09-29": 1440
+      "2024-09-30": 781
     }
   },
   {
@@ -240,18 +239,19 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "down",
-    "uptime": "69.20%",
+    "uptime": "69.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "37.31%",
-    "time": 923,
-    "timeDay": 384,
-    "timeWeek": 476,
-    "timeMonth": 515,
-    "timeYear": 681,
+    "time": 922,
+    "timeDay": 409,
+    "timeWeek": 393,
+    "timeMonth": 511,
+    "timeYear": 682,
     "dailyMinutesDown": {
-      "2025-09-28": 976,
+      "2025-09-29": 49,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -530,8 +530,7 @@
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 949,
-      "2024-09-30": 442,
-      "2024-09-29": 1440
+      "2024-09-30": 442
     }
   },
   {
@@ -545,11 +544,11 @@
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.40%",
-    "time": 1827,
-    "timeDay": 766,
-    "timeWeek": 3246,
-    "timeMonth": 2730,
-    "timeYear": 1918,
+    "time": 1828,
+    "timeDay": 1575,
+    "timeWeek": 3211,
+    "timeMonth": 2712,
+    "timeYear": 1920,
     "dailyMinutesDown": {
       "2025-09-24": 39,
       "2025-09-22": 43,
@@ -573,8 +572,7 @@
       "2024-10-27": 18,
       "2024-10-23": 147,
       "2024-10-15": 25,
-      "2024-09-30": 853,
-      "2024-09-29": 552
+      "2024-09-30": 853
     }
   }
 ]
